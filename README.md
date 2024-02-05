@@ -31,3 +31,4 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 
+Kaustubh Rakhade [KaustubhRakhade](https://github.com/KaustubhRakhade/)
