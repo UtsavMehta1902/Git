@@ -31,6 +31,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 <<<<<<< HEAD
+<<<<<<< HEAD
 Aryan Luharuwala [Aryanluharuwala](http://github.com/aryanluharuwala/)
 =======
 
@@ -66,3 +67,6 @@ Use reset to **remove this commit**.
 - Now you want to **remove some intermediate commits**. Remove commit no. 2 and 4 using rebase.
 - Push all the commits into Task5 and create a Pull Request.
 >>>>>>> upstream/master
+=======
+Aryan Luharuwala [Aryanluharuwala](http://github.com/Aryanluharuwala)
+>>>>>>> e306450ff0d3e924fc35ee20b1c119ddda1fcdb9
