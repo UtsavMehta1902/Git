@@ -30,6 +30,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
+Shoibashis Saha [myselfshoibashis123](https://github.com/myselfshoibashis123)
 
 Utsav Mehta [UtsavMehta1902](http://github.com/UtsavMehta1902)
 
