@@ -32,7 +32,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 
 Utsav Mehta [UtsavMehta1902](http://github.com/UtsavMehta1902)
-
+Adarsh Chaudhari [Adarshchaudahri300](https://github.com/Adarshchaudhari300)
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
