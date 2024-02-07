@@ -30,4 +30,39 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
+<<<<<<< HEAD
 Aryan Luharuwala [Aryanluharuwala](http://github.com/aryanluharuwala/)
+=======
+
+Utsav Mehta [UtsavMehta1902](http://github.com/UtsavMehta1902)
+
+## Task 2
+
+After all of you send a Pull Request, I'll add my name to 'Entries'. 
+
+- Configure a remote that points to the upstream repository in Git to sync changes you make in a fork with the original repository. 
+- Try to merge upstream changes into your downstream repository. You'll get 'merge conflicts'. 
+- [Remove the merge conflicts](https://help.github.com/en/articles/resolving-a-merge-conflict-using-the-command-line) and create another pull request.
+
+
+## Task 3
+
+- Create a new branch (called Task3) in your fork. Add a dummy piece of code and push it to the current branch. 
+- You've now realized that you pushed something wrong. Instead of removing the commit altogether, **push another commit that will undo the changes made**. 
+- Create a pull request.
+
+Why not remove the commit altogether? \
+This prevents Git from losing history, which is important for the integrity of your revision history and for reliable collaboration.
+
+##  Task 4
+
+- Create a new branch (called Task4) in your fork. Add a dummy piece of code and push it to the current branch. 
+- You've now realized that you've pushed something that is not only wrong but also stupid. You regret it so much that you want the commit to vanish altogether. 
+Use reset to **remove this commit**. 
+
+## Task 5
+
+- Create a new branch (called Task5) in your fork. Add a dummy piece of code and commit it to this branch. Do this 5 more times. 
+- Now you want to **remove some intermediate commits**. Remove commit no. 2 and 4 using rebase.
+- Push all the commits into Task5 and create a Pull Request.
+>>>>>>> upstream/master
