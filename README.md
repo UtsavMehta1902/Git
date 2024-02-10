@@ -31,4 +31,4 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 
-Abhisekh Mukherjee [Heisenberg1158](http://github.com/Heisenberg1158)
+Abhisekh Mukherjee[Heisenberg1158](http://github.com/Heisenberg1158)
