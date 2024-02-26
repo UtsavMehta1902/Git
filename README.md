@@ -1,6 +1,7 @@
 # Git
 
 - Resources:
+- 
   - [Interactive Git Learning Platform](https://learngitbranching.js.org) No need for doing the advance topics in both remote/main.
   - [Reference + Extra Reading](http://gitimmersion.com/index.html)
   - Book on Git- [Pro Git](http://git-scm.com/book/en/v2)
@@ -32,6 +33,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 
 Utsav Mehta [UtsavMehta1902](http://github.com/UtsavMehta1902)
+Devi Lakshman [Devi Lakshman] (https://github.com/DeviLakshman)
 
 ## Task 2
 
