@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf(Hello World);
-// this is a wrong code
+	printf("Hello World");
+// this is a write code
 	return 0;
 }
