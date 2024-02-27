@@ -3,6 +3,6 @@
 int main()
 {
 	printf("Hello World");
-// this is a write code
+// this is a right code
 	return 0;
 }
