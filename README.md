@@ -62,3 +62,6 @@ Use reset to **remove this commit**.
 - Create a new branch (called Task5) in your fork. Add a dummy piece of code and commit it to this branch. Do this 5 more times. 
 - Now you want to **remove some intermediate commits**. Remove commit no. 2 and 4 using rebase.
 - Push all the commits into Task5 and create a Pull Request.
+
+## dummy code
+- this is a part of dummy code!.
