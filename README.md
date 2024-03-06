@@ -31,6 +31,8 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 
+Adarsh Mishra [adarshmishrakgp] (https://github.com/adarshmishrakgp)
+
 Utsav Mehta [UtsavMehta1902](http://github.com/UtsavMehta1902)
 
 ## Task 2
